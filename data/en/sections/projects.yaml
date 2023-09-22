@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: "Automation"
+  logo: /images/sections/projects/kubernetes.png
+  role: Developer
+  timeline: "July 2022"
+  summary: "Developed automation pipelines that reduced human intervention for report creation by 83%."
+  tags: ["professional", "automation"]
+
+- name: "Spotify Visualization"
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "Aug 2023 - Sep 2023"
+  summary: "Sample visualization dashboard created from spotify data showcasing various analysis with clear trends."
+  tags: ["hobby", "visualization"]
+
+- name: "Model for Federal Reserve Bank of Richmond"
+  role: Developer
+  timeline: "May 2021"
+  summary: Proposed Python, Pyomo and GLPK network optimization model approach with binary variables and logical constraints to simulate reorganization of 1700 workspaces across 17 floors, while allocating for changing project teams and requirements. 
+  tags: ["academic","machine-learning"]
+
+- name: Quality Management And Six Sigma
+  logo: /images/sections/projects/no-code.png
+  role: Developer
+  timeline: "Nov 2021"
+  #url: ""
+  summary: Screen Time data was extracted from my iPhone to analyze Daily Screen Time variables. A Scope, descriptive statistics, pivot tables, C-Chart and scatter plots were created to check screen times outside of control. Graphs in MS Excel were created to display the analysis
+  tags: ["academic", "forecasting"]
+
+- name: Data Centric Reengineering
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  timeline: "Nov 2021"
+  summary: Opioid Prescribing Rates Analysis Semester long project working with Virginia Department of Social Services to assist in data centric reengineer useful data into VA’s major FAACT database. Tableau dashboard analysis and presentation created using data from 2016 to 2019 on Medicare Prescribing rates.
+  tags: ["academic", "visualization"]

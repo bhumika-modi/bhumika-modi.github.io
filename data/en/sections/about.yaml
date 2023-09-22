@@ -1,0 +1,58 @@
+section:
+  name: About # Title of section (default: "")
+  id: about # url id/slug of section *Required*
+  enable: true # Boolean to determine if this section is enabled (default: false)
+  weight: 1 # Order to display section in (default: alphabetical followed by weight)
+  showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+  template: sections/about.html # allows you to point to a specific template.
+
+designation: Data Analyst
+company:
+  name: "Altman Speciality Plants"
+  url: "https://altmanplants.com/"
+
+summary: "I\'m a dedicated Data Analyst with a strong passion for leveraging data-driven insights to empower business strategies and catalyze growth. My toolbox encompasses a range of programming languages such as R and Python, with a strong proficiency in managing databases using MySQL. I wield advanced BI tools including Tableau, Power BI and IBM Cognos, shaping complex data into actionable insights. If you\'re as passionate about harnessing data insights as I am, let's connect! Whether it\'s discussing innovative strategies, exploring analytics solutions, or fostering collaborative ventures, I\'m always eager to engage in meaningful conversations."
+
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "bhummodi@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/bhumika-modi"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/bhumika-modi/"
+
+badges:
+- type: certification
+  name: Tableau Certified Data Analyst
+  url: "https://www.credly.com/badges/552c6727-d5b8-448c-9a0c-25942599198f/public_url"
+  badge: "https://images.credly.com/size/680x680/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png"
+
+- type: certification
+  name: Tableau Desktop Specialist
+  url: "https://www.credly.com/badges/69531833-47ca-4cd3-9d2e-4bed22e49346/public_url"
+  badge: "https://images.credly.com/size/680x680/images/ef3e7933-f1f1-4bba-9b10-f278188c72ad/image.png"
+
+- type: certification
+  name: "Microsoft Certified: Power Platform Fundamentals"
+  url: "https://www.credly.com/badges/62b90c61-5a28-4df0-a54f-3029e4e97bc1/public_url"
+  badge: "https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png"
+
+- type: soft-skill-indicator
+  name: Organized
+  percentage: 100
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 90
+  color: orange

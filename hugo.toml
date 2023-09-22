@@ -1,0 +1,67 @@
+baseURL = 'https://bhumika-modi.github.io/'
+languageCode = 'en-us'
+title = "Bhumika's Portfolio"
+theme = 'toha'
+enableEmoji = true
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 6
+ordered = false
+
+[outputs]
+home = [ "HTML" ]
+
+[params.features.darkMode]
+enable = true
+
+[params.features.darkMode.services.darkreader]
+defaultColorScheme = "system"
+
+  [params.features.darkMode.services.darkreader.fixes]
+  invert = [ "img[src$=\".svg\"]" ]
+
+  [params.features.darkMode.services.darkreader.theme]
+  brightness = 100
+  contrast = 100
+  sepia = 0
+
+[params.features.portfolio]
+enable = true
+
+[params.features.blog]
+enable = false
+
+[params.features.notes]
+enable = false
+
+[params.features.comment]
+enable = false
+
+[params.features.analytics]
+enabled = false
+
+[params.features.support]
+enable = false
+
+[params.features.toc]
+enable = true
+
+[params.features.tags]
+enable = true
+on_card = true
+
+[params.features.flags]
+enable = true
+
+[params.features.embedpdf]
+enable = false
+
+[params.features.flowchart]
+enable = false
+
+

@@ -1,0 +1,26 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Altman Speciality Plants
+    url: "https://altmanplants.com/"
+    location: US
+    # company overview
+    overview: Altman plants is a widely known distributor for Lowes.
+  positions:
+  - designation: Data Analyst
+    start: Feb 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Responsible for generating daily reports that help leadership drive business.
+    - Responsible for order writing that is used for fulfilling inventory across all stores in US.

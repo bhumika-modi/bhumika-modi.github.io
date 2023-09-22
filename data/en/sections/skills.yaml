@@ -1,0 +1,16 @@
+section:
+  name: Skills # Title of section (default: "")
+  id: skills # url id/slug of section *Required*
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  template: sections/skills.html # allows you to point to a specific template.
+
+skills:
+- name: Tableau
+  logo: "../assets/tableau.jpeg"
+  summary: "Proficient in creating interactive and impactful dashboards and excel in transforming complex data into clear insights."
+  
+- name: "Power BI"
+  logo: "../assets/power_bi_2.png"
+  summary: "Proficient in creating dynamic, data-driven solutions. Expertise extends to developing custom applications, automating workflows, and crafting insightful dashboards that empower organizations to harness the full potential of their data."
