@@ -32,6 +32,7 @@ projects:
   logo: /images/sections/projects/tensorflow.png
   role: Developer
   timeline: "Aug 2023 - Sep 2023"
+  url: "https://public.tableau.com/app/profile/bhumika.modi/viz/SpotifyVisualization_16943518126650/Spotify"
   summary: "Sample visualization dashboard created from spotify data showcasing various analysis with clear trends."
   tags: ["hobby", "visualization"]
 
@@ -45,7 +46,7 @@ projects:
   logo: /images/sections/projects/no-code.png
   role: Developer
   timeline: "Nov 2021"
-  #url: ""
+  url: "https://drive.google.com/uc?export=download&id=1zlPKl3pgzUeL63srdx0VpEgUa8VeYIoL"
   summary: Screen Time data was extracted from my iPhone to analyze Daily Screen Time variables. A Scope, descriptive statistics, pivot tables, C-Chart and scatter plots were created to check screen times outside of control. Graphs in MS Excel were created to display the analysis
   tags: ["academic", "forecasting"]
 
@@ -53,5 +54,6 @@ projects:
   logo: /images/sections/projects/toha.png
   role: Developer
   timeline: "Nov 2021"
+  url: "https://drive.google.com/uc?export=download&id=1wE3IdxwVCYuqZtddrQjJ4zVf4Qw4RmnL"
   summary: Opioid Prescribing Rates Analysis Semester long project working with Virginia Department of Social Services to assist in data centric reengineer useful data into VA’s major FAACT database. Tableau dashboard analysis and presentation created using data from 2016 to 2019 on Medicare Prescribing rates.
   tags: ["academic", "visualization"]

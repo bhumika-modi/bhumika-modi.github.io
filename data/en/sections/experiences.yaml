@@ -12,7 +12,7 @@ experiences:
 - company:
     name: Altman Speciality Plants
     url: "https://altmanplants.com/"
-    location: US
+    location: USA
     # company overview
     overview: Altman plants is a widely known distributor for Lowes.
   positions:
@@ -24,3 +24,37 @@ experiences:
     responsibilities:
     - Responsible for generating daily reports that help leadership drive business.
     - Responsible for order writing that is used for fulfilling inventory across all stores in US.
+- company:
+    name: Map Communications Inc.
+    url: "https://www.mapcommunications.com/"
+    location: USA
+    # company overview
+    overview: Map Communications provides professional live telephone answering services 24/7/365.
+  positions:
+  - designation: Data Analyst Intern
+    start: Jan 2022
+    end: Feb 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Responsible for conducting sentiment analysis on customer feedback and reviews to understand customer satisfaction and identify areas for improvement.
+    - Created reports and dashboards using Power BI to visualize data and communicate findings to stakeholders.
+    - Leveraged data analysis to uncover patterns in customer interactions, leading to the implementation of comprehensive training modules.
+- company:
+    name: Performance Management Group
+    url: "https://pmg.vcu.edu/"
+    location: USA
+    # company overview
+    overview: The Performance Management Group (PMG) at Virginia Commonwealth University offers a comprehensive range of organizational and professional development services.
+  positions:
+  - designation: Office Assistant
+    start: May 2021
+    end: Dec 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Provided essential administrative support to the PMG, including tasks like hosting, co-hosting zoom meetings, logistics.
+    - Prepared documents, reports, and presentations for seminars, ensuring that they were well-organized and error-free.
+    - Managed email communication and phone calls professionally and efficiently, routing inquiries to the appropriate team members when necessary.
