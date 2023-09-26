@@ -34,9 +34,6 @@ experiences:
   - designation: Data Analyst Intern
     start: Jan 2022
     end: Feb 2022
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
     responsibilities:
     - Responsible for conducting sentiment analysis on customer feedback and reviews to understand customer satisfaction and identify areas for improvement.
     - Created reports and dashboards using Power BI to visualize data and communicate findings to stakeholders.
@@ -51,9 +48,6 @@ experiences:
   - designation: Office Assistant
     start: May 2021
     end: Dec 2021
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
     responsibilities:
     - Provided essential administrative support to the PMG, including tasks like hosting, co-hosting zoom meetings, logistics.
     - Prepared documents, reports, and presentations for seminars, ensuring that they were well-organized and error-free.
